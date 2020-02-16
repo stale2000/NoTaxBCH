@@ -5,24 +5,40 @@ It covers any important entity in the space, that opposes it for any reason.  Ei
 
 ### Businesses, Infrastructure, Projects & Institutions:
 
-
-crescent.cash
 tipbitcoin.cash
+
 Flowee Client
+
 bitcoincashj
+
 ASICseer.com
+
 Melis Wallet
+
 SBI Crypto Pool
+
 Cash-accounts
+
 Cash-ID
+
 cashual-wallet
+
 Grapefruit Trading
+
 fountainhead.cash
+
 Cyber Capital
+
 Chaintip
+
 stats.cash
+
 pyxpub.io
+
 bitcoincashers.org
+
 simpleledger.info
+
 Knuth node
+
 read.cash
